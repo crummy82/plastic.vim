@@ -1,4 +1,5 @@
-This is NOT my work. I forked this to have on-hand for use. please see the original designer's page for any updates. 
+This is NOT my work. I forked this to have on-hand for use. please see the original designer's page for any updates.
+[https://github.com/flrnd/plastic.vim](https://github.com/flrnd/plastic.vim)
 
 ![plastic.vim](https://github.com/flrnprz/plastic.vim/blob/master/plastic-vim-screen.png)
 
