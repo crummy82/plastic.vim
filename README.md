@@ -1,3 +1,5 @@
+This is NOT my work. I forked this to have on-hand for use. please see the original designer's page for any updates. 
+
 ![plastic.vim](https://github.com/flrnprz/plastic.vim/blob/master/plastic-vim-screen.png)
 
 # plastic.vim
